@@ -82,4 +82,4 @@ Data can be refined through the use of URL parameters. For example here is a rea
 
 ## Mockup
 
-![Mockup] (images/Mockup.png)
+![Mockup](images/Mockup.png)
